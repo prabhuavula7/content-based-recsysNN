@@ -1,0 +1,5 @@
+public_tests
+recsysNN_utils
+scikit-learn
+tabulate
+tensorflow
